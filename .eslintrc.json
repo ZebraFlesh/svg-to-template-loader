@@ -1,0 +1,14 @@
+{
+  "root": true,
+  "env": {
+    "node": true
+  },
+  "extends": "eslint:recommended",
+  "rules": {
+    "indent": ["warn", 2, { "SwitchCase": 1 }],
+    "keyword-spacing": "error",
+    "space-before-blocks": ["warn", "always"],
+    "space-before-function-paren": "error",
+    "space-infix-ops": "error"
+  }
+}

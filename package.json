@@ -1,0 +1,22 @@
+{
+  "name": "svg-to-template-loader",
+  "version": "0.0.1",
+  "description": "SVG to JSX template loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "svg"
+  ],
+  "author": "ZebraFlesh",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.8.0"
+  },
+  "dependencies": {
+    "loader-utils": "^0.2.16"
+  }
+}
